@@ -1,0 +1,8 @@
+[
+  {"cmd": "gulp", "args": "-v", "label": "gulp version"},
+  {"cmd": "gulp", "args": "default", "label": "default"},
+  {"cmd": "gulp", "args": "watch", "label": "watch"},
+  {"cmd": "gulp", "args": "wget", "label": "wget"},
+  {"cmd": "gulp", "args": "minify", "label": "minify"},
+  {"cmd": "dir", "args": "*", "label": "dir of working dir"}
+]  
